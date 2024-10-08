@@ -85,9 +85,3 @@ This is optional and does not affect execution within Docker.
 ```bash
 docker-compose build
 ```
-
-<<<<<<< HEAD
-## Deployment
-=======
-## Deployment
->>>>>>> c7b92d5 (project created)
